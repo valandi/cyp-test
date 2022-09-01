@@ -1,8 +1,10 @@
 module.exports = {
-    testConcurrency: 5,
-    batchName: 'Ligonier batch',
+    testConcurrency: 25,
     browser: [
         {width: 1024, height: 660, name: 'chrome'},
     ],
-    showLogs: true
+    showLogs: true,
+    disableBrowserFetching: false, 
+    waitBeforeCapture: 10000,
+    waitBeforeScreenshot: 10000
 }

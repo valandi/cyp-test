@@ -2,5 +2,5 @@
   "fixturesFolder": false,
   "video": false,
   "chromeWebSecurity": false,
-  "projectId": "ih5uu6"
+  "numTestsKeptInMemory": 0
 }
