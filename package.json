@@ -12,6 +12,6 @@
   "license": "Apache License 2.0",
   "dependencies": {
     "@applitools/eyes-cypress": "^3.27.1",
-    "cypress": "^9.7.0"
+    "cypress": "^10.9.0"
   }
 }
